@@ -1,4 +1,4 @@
-# TWOS Dataset
+# TWOS (The Wolf of SUTD) Dataset
 
 ## 1. Introduction
 The TWOS dataset has been collected from real user interaction with the host machine that contains both legitimate user data and malicious insider instances (masqueraders and traitors).  The dataset was collected during the competition organized by Singapore University of Technology and Design in March 2017, and comprises of data collected from 6 data sources (keystrokes, mouse, host monitor, network traffic, SMTP logs, and logon)  with additional data from psychological personality questionaire. 
@@ -12,15 +12,15 @@ Since this dataset was collected with human subjects and through confidentiality
 
 ### Email Template
 > `I am interested in obtaining a copy of TWOS dataset for research purposes. These purposes are described below.`
-
-> `indicate what you plan to do with the data`
-
+>
+> <_here indicate what you plan to do with the data_>
+>
 > `I agree to abide by the following conditions limiting my use of this data set.`
-
+>
 > 1. `I will use the data for only the research purposes described above.`
 > 2. `I will not pass the data to other researchers without explicit permission from the original authors.`
 > 3. `I will indicate in any potential publication the source of the data as the following citation:`
-
+>
 >> _Athul Harilal, Flavio Toffalini, John Castellanos, Juan Guarnizo, Ivan Homoliak, and Martin Ochoa. TWOS: A Dataset of Malicious Insider Threat Behavior Based on a Gamified Competition. In International Workshop on Managing Insider Security Threats (MIST@CCS). 2017._
 
 
