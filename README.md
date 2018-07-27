@@ -22,8 +22,8 @@ Since this dataset was collected with human subjects and through confidentiality
 > 3. `I will indicate in any potential publication the source of the data as the following citation:`
 >
 >> _Athul Harilal, Flavio Toffalini, John Castellanos, Juan Guarnizo, Ivan Homoliak, and Martin Ochoa. TWOS: A Dataset of Malicious Insider Threat Behavior Based on a Gamified Competition. In International Workshop on Managing Insider Security Threats (MIST@CCS). 2017._
-
-<_Indicate your name, surname, and institution_>
+>
+> <_Indicate your name, surname, and institution_>
 
 
 ## 3. Description of Data Sources
