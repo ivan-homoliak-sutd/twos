@@ -8,7 +8,7 @@ The dataset contains activity of 24 users that were collected over a period of 5
 ![Image](poster.png)
 
 ## 2. Conditions of Use
-Since this dataset was collected with human subjects and through confidentiality agreements with them, access to this dataset is given only upon meeting several conditions. We expect to receive an request email to address `corplab-project3 (AT) sutd.edu.sg` with the template below with attached and signed PDF form https://github.com/ivan-homoliak-sutd/twos/blob/master/SUTD_TWOS_dataset_release_agreement.pdf. If you are a student or a research assistant, we also need a confirmation from your supervisor saying that she/he understand these conditions as well.
+Since this dataset was collected with human subjects and through confidentiality agreements with them, access to this dataset is given only upon meeting several conditions. We expect to receive an request email to one of addresses `{corplab-project3, cyberlab} (AT) sutd.edu.sg` with the template below with attached and signed PDF form https://github.com/ivan-homoliak-sutd/twos/blob/master/SUTD_TWOS_dataset_release_agreement.pdf. If you are a student or a research assistant, we also need a confirmation from your supervisor saying that she/he understand these conditions as well.
 
 ### Email Template
 > `I am interested in obtaining a copy of TWOS dataset for research purposes. These purposes are described below.`
